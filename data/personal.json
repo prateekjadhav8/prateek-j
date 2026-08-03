@@ -1,0 +1,48 @@
+{
+  "name": "Prateek Jadhav",
+  "initials": "PJ",
+  "role": "Lead Software Engineer",
+  "tagline": "Building scalable backend applications with Java, Spring Boot, REST APIs, and modern software architecture.",
+  "intro": "Lead Software Engineer with 4+ years of software development experience and 6+ years of overall professional experience. Passionate about building robust backend systems using Java, Spring Boot, Hibernate, and MySQL while delivering scalable and maintainable enterprise applications.",
+  "about": "I'm a backend-focused software engineer specializing in Java, Spring Boot, Spring MVC, Hibernate, and RESTful API development. Over the past four years, I have worked on enterprise applications, SaaS products, and business-critical systems, contributing across the software development lifecycle. I enjoy solving complex technical problems, designing scalable architectures, and building reliable applications that deliver real business value.",
+  "highlights": [
+    "5+ years of experience in Java and Spring Boot development",
+    "Developed and maintained enterprise-grade REST APIs and backend services",
+    "Worked on SaaS and business-critical applications across multiple domains",
+    "Experienced in Agile development, code reviews, and production support"
+  ],
+  "email": "prateekjadhav8@gmail.com",
+  "phone": "+91 9009560389",
+  "location": "Indore, Madhya Pradesh, India",
+  "availability": "Open to Software Engineer, Senior Software Engineer, and Lead Software Engineer opportunities",
+  "avatar": "/1.png.png",
+  "resumeUrl": "/prateek-jadhav-resume.pdf",
+  "metaDescription": "Prateek Jadhav is a Lead Software Engineer with 4+ years of software development experience specializing in Java, Spring Boot, Hibernate, REST APIs, and scalable backend systems.",
+  "twitterHandle": "@prateekjadhav",
+  "stats": [
+    {
+      "label": "Years Experience",
+      "value": 4,
+      "suffix": "+",
+      "prefix": ""
+    },
+    {
+      "label": "Overall Experience",
+      "value": 6,
+      "suffix": "+",
+      "prefix": ""
+    },
+    {
+      "label": "Projects Delivered",
+      "value": 10,
+      "suffix": "+",
+      "prefix": ""
+    },
+    {
+      "label": "Technologies Worked",
+      "value": 15,
+      "suffix": "+",
+      "prefix": ""
+    }
+  ]
+}

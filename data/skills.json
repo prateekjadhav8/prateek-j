@@ -1,0 +1,46 @@
+[
+  {
+    "category": "Backend",
+    "icon": "server",
+    "skills": [
+      { "name": "Java", "level": 95 },
+      { "name": "Spring Boot", "level": 93 },
+      { "name": "Spring MVC", "level": 88 },
+      { "name": "Spring Security", "level": 85 },
+      { "name": "Hibernate", "level": 87 },
+      { "name": "JPA", "level": 88 },
+      { "name": "REST APIs", "level": 94 },
+      { "name": "Microservices", "level": 90 }
+    ]
+  },
+  {
+    "category": "Database",
+    "icon": "database",
+    "skills": [
+      { "name": "MySQL", "level": 88 },
+      { "name": "PostgreSQL", "level": 90 },
+      { "name": "SQL", "level": 90 }
+    ]
+  },
+  {
+    "category": "Cloud & DevOps",
+    "icon": "cloud",
+    "skills": [
+      { "name": "Docker", "level": 88 },
+      { "name": "Kubernetes", "level": 82 },
+      { "name": "AWS", "level": 85 },
+      { "name": "Jenkins", "level": 80 },
+      { "name": "GitHub Actions", "level": 86 }
+    ]
+  },
+  {
+    "category": "Tools",
+    "icon": "wrench",
+    "skills": [
+      { "name": "Git", "level": 92 },
+      { "name": "Maven", "level": 88 },
+      { "name": "IntelliJ IDEA", "level": 90 },
+      { "name": "Postman", "level": 90 }
+    ]
+  }
+]

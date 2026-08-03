@@ -1,0 +1,86 @@
+[
+  {
+    "id": "crm-saas",
+    "title": "CRM SaaS Platform",
+    "description": "Multi-tenant CRM backend with role-based access, activity streams, and a plugin architecture for custom workflows.",
+    "image": "/projects/crm-saas.png",
+    "tech": ["Java", "Spring Boot", "PostgreSQL", "Redis", "Kafka"],
+    "github": "https://github.com/arjunmehta/crm-saas",
+    "demo": "https://crm.example.com",
+    "featured": true,
+    "metrics": [
+      { "label": "Tenants", "value": "500+" },
+      { "label": "Uptime", "value": "99.9%" }
+    ]
+  },
+  {
+    "id": "inventory",
+    "title": "Inventory Management System",
+    "description": "Real-time inventory service with optimistic locking, low-stock alerts, and warehouse-level reporting.",
+    "image": "/projects/inventory.png",
+    "tech": ["Java", "Spring Boot", "MySQL", "Docker"],
+    "github": "https://github.com/arjunmehta/inventory",
+    "demo": "https://inventory.example.com",
+    "featured": true,
+    "metrics": [
+      { "label": "SKUs", "value": "1M+" },
+      { "label": "Sync", "value": "<200ms" }
+    ]
+  },
+  {
+    "id": "employee-portal",
+    "title": "Employee Management Portal",
+    "description": "HR platform for onboarding, leave, and performance reviews with an Angular frontend and Spring backend.",
+    "image": "/projects/employee-portal.png",
+    "tech": ["Java", "Spring Security", "Angular", "PostgreSQL"],
+    "github": "https://github.com/arjunmehta/employee-portal",
+    "demo": "https://hr.example.com",
+    "featured": false,
+    "metrics": [
+      { "label": "Employees", "value": "8K+" },
+      { "label": "Modules", "value": "12" }
+    ]
+  },
+  {
+    "id": "banking",
+    "title": "Banking Transaction System",
+    "description": "Double-entry ledger service with idempotent transfers, audit trails, and strong consistency guarantees.",
+    "image": "/projects/banking.png",
+    "tech": ["Java", "Spring Boot", "PostgreSQL", "Kafka", "Kubernetes"],
+    "github": "https://github.com/arjunmehta/banking-ledger",
+    "demo": "https://ledger.example.com",
+    "featured": true,
+    "metrics": [
+      { "label": "Volume", "value": "$40M/mo" },
+      { "label": "Errors", "value": "0" }
+    ]
+  },
+  {
+    "id": "ecommerce-backend",
+    "title": "E-Commerce Backend",
+    "description": "Order, cart, and catalog microservices with a caching layer built to handle high-traffic flash sales.",
+    "image": "/projects/ecommerce.png",
+    "tech": ["Java", "Spring Boot", "Redis", "MySQL", "Docker"],
+    "github": "https://github.com/arjunmehta/ecommerce-backend",
+    "demo": "https://shop.example.com",
+    "featured": false,
+    "metrics": [
+      { "label": "Requests", "value": "5M/day" },
+      { "label": "Cache hit", "value": "94%" }
+    ]
+  },
+  {
+    "id": "api-gateway",
+    "title": "API Gateway Service",
+    "description": "Custom gateway with JWT auth, rate limiting, request routing, and centralized observability.",
+    "image": "/projects/api-gateway.png",
+    "tech": ["Java", "Spring Cloud Gateway", "Redis", "Kubernetes"],
+    "github": "https://github.com/arjunmehta/api-gateway",
+    "demo": "https://gateway.example.com",
+    "featured": false,
+    "metrics": [
+      { "label": "Routes", "value": "60+" },
+      { "label": "p99", "value": "35ms" }
+    ]
+  }
+]

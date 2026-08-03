@@ -1,0 +1,30 @@
+[
+  {
+    "id": "oca-java",
+    "title": "Oracle Certified Associate — Java SE",
+    "issuer": "Oracle",
+    "year": "2022",
+    "credentialId": "OCA-JAVA-4821"
+  },
+  {
+    "id": "spring-pro",
+    "title": "Spring Professional Certification",
+    "issuer": "VMware / Broadcom",
+    "year": "2023",
+    "credentialId": "SPRING-PRO-9317"
+  },
+  {
+    "id": "aws-ccp",
+    "title": "AWS Certified Cloud Practitioner",
+    "issuer": "Amazon Web Services",
+    "year": "2023",
+    "credentialId": "AWS-CCP-5567"
+  },
+  {
+    "id": "microservices",
+    "title": "Microservices Architecture Certification",
+    "issuer": "Udemy Academy",
+    "year": "2024",
+    "credentialId": "MSA-2024-1290"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "linkedin",
+    "label": "LinkedIn",
+    "href": "https://linkedin.com/in/arjunmehta",
+    "icon": "linkedin"
+  },
+  {
+    "id": "github",
+    "label": "GitHub",
+    "href": "https://github.com/arjunmehta",
+    "icon": "github"
+  },
+  {
+    "id": "email",
+    "label": "Email",
+    "href": "mailto:arjun.mehta@example.com",
+    "icon": "mail"
+  },
+  {
+    "id": "twitter",
+    "label": "Twitter",
+    "href": "https://twitter.com/arjunbuilds",
+    "icon": "twitter"
+  }
+]

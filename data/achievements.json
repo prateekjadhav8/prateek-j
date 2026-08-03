@@ -1,0 +1,30 @@
+[
+  {
+    "id": "eoq",
+    "title": "Employee of the Quarter",
+    "description": "Recognized for leading the ledger service launch ahead of schedule with zero production incidents.",
+    "icon": "trophy",
+    "year": "2024"
+  },
+  {
+    "id": "project-excellence",
+    "title": "Project Excellence Award",
+    "description": "Awarded for the monolith-to-microservices migration that improved deployment frequency 5x.",
+    "icon": "award",
+    "year": "2023"
+  },
+  {
+    "id": "performance",
+    "title": "Performance Recognition",
+    "description": "Top-rated engineer two years running for consistent, high-impact backend delivery.",
+    "icon": "star",
+    "year": "2022"
+  },
+  {
+    "id": "tech-leadership",
+    "title": "Technical Leadership Award",
+    "description": "Honored for mentoring engineers and establishing backend engineering standards adopted org-wide.",
+    "icon": "users",
+    "year": "2024"
+  }
+]

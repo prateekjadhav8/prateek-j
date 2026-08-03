@@ -1,0 +1,63 @@
+[
+  {
+    "id": "lead-nimbus",
+    "role": "Lead Software Engineer",
+    "company": "Nimbus Financial",
+    "location": "San Francisco, CA",
+    "duration": "Jan 2024 — Present",
+    "current": true,
+    "summary": "Lead the backend platform team building the core payments and ledger services for a fintech serving 2M+ customers.",
+    "responsibilities": [
+      "Architect event-driven microservices with Spring Boot, Kafka, and PostgreSQL",
+      "Own service reliability, SLOs, and on-call practices for 12 production services",
+      "Drive technical roadmap and review designs across three squads",
+      "Partner with product and infra teams on scalability and compliance"
+    ],
+    "achievements": [
+      "Cut p99 transaction latency from 480ms to 210ms",
+      "Delivered a double-entry ledger processing $40M/month with zero discrepancies",
+      "Established a golden-path service template adopted org-wide"
+    ],
+    "technologies": ["Java 21", "Spring Boot", "Kafka", "PostgreSQL", "Kubernetes", "AWS"]
+  },
+  {
+    "id": "senior-orbit",
+    "role": "Senior Software Engineer",
+    "company": "Orbit Commerce",
+    "location": "Remote",
+    "duration": "Jun 2022 — Dec 2023",
+    "current": false,
+    "summary": "Built and scaled the order and inventory microservices behind a high-growth e-commerce platform.",
+    "responsibilities": [
+      "Designed REST and gRPC APIs consumed by web and mobile clients",
+      "Implemented caching and read-replica strategies for hot endpoints",
+      "Introduced contract testing and CI/CD gates with GitHub Actions"
+    ],
+    "achievements": [
+      "Scaled the order service to 5M+ requests/day during peak sales",
+      "Reduced database load 60% with a Redis caching layer",
+      "Improved deployment frequency from weekly to daily"
+    ],
+    "technologies": ["Java 17", "Spring Boot", "Hibernate", "Redis", "Docker", "MySQL"]
+  },
+  {
+    "id": "engineer-quanta",
+    "role": "Software Engineer",
+    "company": "Quanta Labs",
+    "location": "Bengaluru, India",
+    "duration": "Jul 2021 — May 2022",
+    "current": false,
+    "summary": "Developed REST APIs and internal tooling for a B2B SaaS analytics product.",
+    "responsibilities": [
+      "Built Spring MVC services and integrated third-party data providers",
+      "Wrote unit and integration tests to raise coverage above 85%",
+      "Automated report generation jobs with scheduled tasks"
+    ],
+    "achievements": [
+      "Shipped 20+ production REST endpoints in the first year",
+      "Automated a manual reporting flow, saving 15 hours/week",
+      "Recognized as a top performer in the engineering org"
+    ],
+    "technologies": ["Java 11", "Spring MVC", "Spring Security", "JPA", "PostgreSQL", "Maven"]
+  }
+]
